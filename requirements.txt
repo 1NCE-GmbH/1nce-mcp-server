@@ -1,0 +1,10 @@
+# Dependencies for 1NCE IoT Platform MCP Server
+
+# FastMCP - MCP server framework
+fastmcp>=2.0.0
+
+# HTTP client for API calls
+httpx>=0.24.0
+
+# Type annotations
+typing-extensions>=4.0.0
